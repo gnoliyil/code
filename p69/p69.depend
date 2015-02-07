@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1423242706 source:/home/gnoliyil/Code/p69/main.cpp
+	<iostream>
+	<cstdio>
+	<bitset>
+	<cstdlib>
+	<algorithm>
+
